@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - amrnuri@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I graduate from Virginia Commonwealth University this May. With a bachelor's degree in Business Information System
+- ⚡ Fun fact: B.S. in Information System Graduate 
 
 <!---
 amrnuri/amrnuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
